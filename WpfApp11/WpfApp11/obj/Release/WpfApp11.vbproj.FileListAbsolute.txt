@@ -1,0 +1,16 @@
+E:\UserData\lennon\source\repos\WpfApp11\WpfApp11\bin\Release\WpfApp11.exe.config
+E:\UserData\lennon\source\repos\WpfApp11\WpfApp11\bin\Release\WpfApp11.exe
+E:\UserData\lennon\source\repos\WpfApp11\WpfApp11\bin\Release\WpfApp11.pdb
+E:\UserData\lennon\source\repos\WpfApp11\WpfApp11\bin\Release\WpfApp11.xml
+E:\UserData\lennon\source\repos\WpfApp11\WpfApp11\obj\Release\MainWindow.g.vb
+E:\UserData\lennon\source\repos\WpfApp11\WpfApp11\obj\Release\Application.g.vb
+E:\UserData\lennon\source\repos\WpfApp11\WpfApp11\obj\Release\WpfApp11_MarkupCompile.cache
+E:\UserData\lennon\source\repos\WpfApp11\WpfApp11\obj\Release\WpfApp11_MarkupCompile.lref
+E:\UserData\lennon\source\repos\WpfApp11\WpfApp11\obj\Release\MainWindow.baml
+E:\UserData\lennon\source\repos\WpfApp11\WpfApp11\obj\Release\WpfApp11.g.resources
+E:\UserData\lennon\source\repos\WpfApp11\WpfApp11\obj\Release\WpfApp11.Resources.resources
+E:\UserData\lennon\source\repos\WpfApp11\WpfApp11\obj\Release\WpfApp11.vbproj.GenerateResource.cache
+E:\UserData\lennon\source\repos\WpfApp11\WpfApp11\obj\Release\WpfApp11.vbproj.CoreCompileInputs.cache
+E:\UserData\lennon\source\repos\WpfApp11\WpfApp11\obj\Release\WpfApp11.exe
+E:\UserData\lennon\source\repos\WpfApp11\WpfApp11\obj\Release\WpfApp11.xml
+E:\UserData\lennon\source\repos\WpfApp11\WpfApp11\obj\Release\WpfApp11.pdb
